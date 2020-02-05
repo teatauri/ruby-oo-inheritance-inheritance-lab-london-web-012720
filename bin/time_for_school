@@ -5,7 +5,7 @@ require_relative "../lib/teacher.rb"
 require_relative "../lib/student.rb"
 
 steve = Student.new
-steve.first_name = "Steve"
+steve.first_name = "Steve" 
 steve.last_name = "Jobs"
 
 avi = Teacher.new
